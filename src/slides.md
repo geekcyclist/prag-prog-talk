@@ -311,9 +311,9 @@ The Pragmatic Programmer: From Journeyman to Master (Andy Hunt and Dave Thomas) 
 Behind Closed Doors: Secrets of Great Management (Esther Derby and Johanna Rothman)
 Code Complete (Steve McConnell)
 
-Send me your suggestions!
-
-gary.ray@gmail.com
+Participant suggestions:
+Computer Systems: A Programmer's Perspective (Randal Bryant and David O'Hallaron) - suggested by Tyler
+The Design of Everyday Things (Don Norman) - suggested by Frank
 
 ---
 ## Questions & Contact
